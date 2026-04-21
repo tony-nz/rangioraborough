@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneBook>
   <Title>RBS Directory</Title>
-
-  <!-- Office / Admin -->
   <DirectoryEntry>
     <Name>Sue Collie</Name>
     <Telephone>700</Telephone>
@@ -43,8 +41,6 @@
     <Name>Lift Phone</Name>
     <Telephone>710</Telephone>
   </DirectoryEntry>
-
-  <!-- Tui -->
   <DirectoryEntry>
     <Name>Marie Reed - Tui 1</Name>
     <Telephone>714</Telephone>
@@ -65,8 +61,6 @@
     <Name>Tui Office</Name>
     <Telephone>733</Telephone>
   </DirectoryEntry>
-
-  <!-- Kakariki -->
   <DirectoryEntry>
     <Name>Mikayla Williams - Kakariki 1</Name>
     <Telephone>719</Telephone>
@@ -83,8 +77,6 @@
     <Name>Kakariki 4</Name>
     <Telephone>722</Telephone>
   </DirectoryEntry>
-
-  <!-- NReR -->
   <DirectoryEntry>
     <Name>Liana Abraham - NReR 1</Name>
     <Telephone>734</Telephone>
@@ -93,8 +85,6 @@
     <Name>Kirsty Robinson - NReR 2</Name>
     <Telephone>735</Telephone>
   </DirectoryEntry>
-
-  <!-- T4 -->
   <DirectoryEntry>
     <Name>Rachel Frampton - T4</Name>
     <Telephone>728</Telephone>
@@ -103,8 +93,6 @@
     <Name>T4 Office</Name>
     <Telephone>729</Telephone>
   </DirectoryEntry>
-
-  <!-- Ruru -->
   <DirectoryEntry>
     <Name>Ruru 3 &amp; 4 - Jasmin</Name>
     <Telephone>730</Telephone>
@@ -117,8 +105,6 @@
     <Name>Ruru Office</Name>
     <Telephone>732</Telephone>
   </DirectoryEntry>
-
-  <!-- Other -->
   <DirectoryEntry>
     <Name>Epic Room</Name>
     <Telephone>718</Telephone>
@@ -135,5 +121,4 @@
     <Name>Julie Brugh - Library</Name>
     <Telephone>744</Telephone>
   </DirectoryEntry>
-
 </YealinkIPPhoneBook>
