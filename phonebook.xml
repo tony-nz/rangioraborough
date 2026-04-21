@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>RBS Directory</Title>
+
+  <!-- Office / Admin -->
+  <DirectoryEntry>
+    <Name>Sue Collie</Name>
+    <Telephone>700</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Janet Lintott - Reception</Name>
+    <Telephone>702</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Kelly Taylor</Name>
+    <Telephone>703</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Simon Green</Name>
+    <Telephone>704</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Jo Pasley</Name>
+    <Telephone>705</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Tony Myers</Name>
+    <Telephone>706</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Office</Name>
+    <Telephone>707</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Sonia Koschinski</Name>
+    <Telephone>708</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Southern Health</Name>
+    <Telephone>709</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Lift Phone</Name>
+    <Telephone>710</Telephone>
+  </DirectoryEntry>
+
+  <!-- Tui -->
+  <DirectoryEntry>
+    <Name>Marie Reed - Tui 1</Name>
+    <Telephone>714</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Sally Lamplugh - Tui 2</Name>
+    <Telephone>715</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Shannon Morris - Tui 3</Name>
+    <Telephone>716</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Tui 4</Name>
+    <Telephone>717</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Tui Office</Name>
+    <Telephone>733</Telephone>
+  </DirectoryEntry>
+
+  <!-- Kakariki -->
+  <DirectoryEntry>
+    <Name>Mikayla Williams - Kakariki 1</Name>
+    <Telephone>719</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Annabelle Simpson - Kakariki 2</Name>
+    <Telephone>720</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Kylee Doust - Kakariki 3</Name>
+    <Telephone>721</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Kakariki 4</Name>
+    <Telephone>722</Telephone>
+  </DirectoryEntry>
+
+  <!-- NReR -->
+  <DirectoryEntry>
+    <Name>Liana Abraham - NReR 1</Name>
+    <Telephone>734</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Kirsty Robinson - NReR 2</Name>
+    <Telephone>735</Telephone>
+  </DirectoryEntry>
+
+  <!-- T4 -->
+  <DirectoryEntry>
+    <Name>Rachel Frampton - T4</Name>
+    <Telephone>728</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>T4 Office</Name>
+    <Telephone>729</Telephone>
+  </DirectoryEntry>
+
+  <!-- Ruru -->
+  <DirectoryEntry>
+    <Name>Ruru 3 &amp; 4 - Jasmin</Name>
+    <Telephone>730</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Ruru 1 &amp; 2 - Taara</Name>
+    <Telephone>731</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Ruru Office</Name>
+    <Telephone>732</Telephone>
+  </DirectoryEntry>
+
+  <!-- Other -->
+  <DirectoryEntry>
+    <Name>Epic Room</Name>
+    <Telephone>718</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Hall</Name>
+    <Telephone>737</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>MinLit</Name>
+    <Telephone>740</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Julie Brugh - Library</Name>
+    <Telephone>744</Telephone>
+  </DirectoryEntry>
+
+</YealinkIPPhoneBook>
